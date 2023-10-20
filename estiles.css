@@ -1,0 +1,46 @@
+*{
+    cursor:url(img/CURSOR.png),auto;
+    margin: 0%;
+    color: white;
+}
+header{
+    background-image: url(img/fondo\ 1);
+    background-size: cover;
+    height: 600px;
+}
+a{
+    text-decoration: none;
+}
+.LOGO{
+    border: solid black 3px;
+}
+.color{
+    color: white;
+}
+.INFINITI{
+    font-size: 80px;
+    padding-top: 60px;
+}
+section{
+    background-image: url(img/section.jpg);
+    background-size: cover;
+    height: 700px;
+}
+.LINEA{
+    background-color: red;
+    height: 15px;
+}
+section img{
+    height: 500px;
+}
+.slide{
+    margin:30px 150px 0px 150px;
+}
+.ITEM1{
+    position: relative;
+}
+section p{
+    position: absolute;
+}
+
+
